@@ -1,0 +1,20 @@
+id = "ingetrazo_lite_bridge"
+version = "0.1.0"
+author = "Alvaro Celis"
+author_url = "https://github.com/Saoru71"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/Saoru71/ingetrazo-lite-bridge"
+download = "https://github.com/Saoru71/ingetrazo-lite-bridge/releases/download/v0.1.0/ingetrazo_lite_bridge-0.1.0.zip"
+sha256 = "9b993f797b152b7781a6ccc31755aec2912c2687c099aa50a62b22e67a3222e1"
+ingetrazo = "0.5.9"
+tags = ["rendering", "productivity"]
+
+[name]
+es = "Lite Bridge: renderizado con IA"
+en = "Lite Bridge: AI rendering"
+pt = "Lite Bridge: renderização com IA"
+
+[summary]
+es = "Captura la ventana gráfica y la redibuja con Stable Diffusion 1.5 a través de ComfyUI. Demo gratuita del flujo de trabajo."
+en = "Captures the viewport and redraws it with Stable Diffusion 1.5 through ComfyUI. A free demo of the workflow."
+pt = "Captura a viewport e a redesenha com Stable Diffusion 1.5 via ComfyUI. Demo gratuita do fluxo de trabalho."
