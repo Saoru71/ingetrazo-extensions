@@ -1,11 +1,11 @@
 id = "ingetrazo_lite_bridge"
-version = "0.1.0"
+version = "0.1.1"
 author = "Alvaro Celis"
 author_url = "https://github.com/Saoru71"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/Saoru71/ingetrazo-lite-bridge"
-download = "https://github.com/Saoru71/ingetrazo-lite-bridge/releases/download/v0.1.0/ingetrazo_lite_bridge-0.1.0.zip"
-sha256 = "9b993f797b152b7781a6ccc31755aec2912c2687c099aa50a62b22e67a3222e1"
+download = "https://github.com/Saoru71/ingetrazo-lite-bridge/releases/download/v0.1.1/ingetrazo_lite_bridge-0.1.1.zip"
+sha256 = "d67fda3e4ee4154d421f78d2b3f819e87036d9cbd82fa094ad39b8ed85d7b95f"
 ingetrazo = "0.5.9"
 tags = ["rendering", "productivity"]
 
